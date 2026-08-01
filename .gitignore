@@ -1,0 +1,14 @@
+# Environment variables (contains your API key — NEVER upload this)
+.env
+
+# Python virtual environment
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS_Store
+Thumbs.db
